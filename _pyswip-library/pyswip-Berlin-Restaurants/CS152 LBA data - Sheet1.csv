@@ -1,0 +1,32 @@
+Name,Cuisine,Price range,Type of meals ,"Distance (walking, in min)",Vegetarian,Gluten-free,Language spoken by staff,Accessibility by public transportation
+Miss Saigon Restaurant,Vietnamese,low,"Lunch, Dinner",17,Y,Unknown,"German, English, Vietnamese","Bus, Taxi"
+Maroush,"Lebanese, Middle Eastern",low,"Lunch, Dinner",9,Y,Unknown,"German, English, Arabic",Walk
+Burgermeister Kottbusser Tor,American,low,"Lunch, Dinner",12,Y,Unknown,"German, English",Walk
+Basmah,"Sudanese, Mediterranean",low,"Lunch, Dinner",15,Y,Unknown,"German, English, Arabic","Walk, Bus"
+Mundvoll,International,medium,"Breakfast, Brunch, Lunch, Dinner",6,Y,Y,"German, English",Walk
+Paglia,"Italian, Mediterranean",medium,"Brunch, Lunch, Dinner",9,Y,Unknown,"German, English",Walk
+Milch & Zucker,International,medium,"Breakfast, Brunch, Lunch, Dinner",12,Y,Y,"German, English",Walk
+Yafo,Israeli ,medium,"Lunch, Dinner",20,Y,N,"German, English","Bus, Taxi"
+Jambo,African,medium,"Lunch, Dinner",25,Y,N,"German, English","Bus, Taxi"
+Westberlin ,European,medium,"Breakfast, Brunch, Lunch",35,Y,Y,"German, English","Metro, Bus, Taxi"
+Amrit,Indian,medium,"Lunch, Dinner",25,Y,N,"German, English, Hindi","Metro, Taxi"
+Que Pasa Mexicana,Mexican,low,"Breakfast, Brunch, Lunch",10,Y,N,"German, Spanish","Walk, Bus"
+Hasir Burger,Turkish,medium,"Lunch, Dinner",10,N,N,"German, Turkish","Walk, Bus"
+Kreuzberger Weltlaterne,Greek,medium,"Breakfast, Brunch, Lunch",15,Y,N,"German, Greek, English","Bus, Taxi"
+Wonder Waffel,International,medium,"Breakfast, Brunch",18,Y,Y,"German, English","Metro, Bus, Taxi"
+Eden,Vietnamese,medium,"Lunch, Dinner",35,Y,N,"German, Vietnamese","Metro, Bus, Taxi"
+Nanoosh,Mediterranean,medium,"Breakfast, Brunch, Lunch",35,Y,N,"German, English","Bus, Taxi"
+"La Piadina",Italian,low,"Brunch, Lunch, Dinner",7,Y,Y,"German, Italian, English",Walk
+Santa Maria,Mexican,low,"Lunch, Dinner",9,Y,N,"German, Spanish",Walk
+Sushi For You,Japanese,medium,"Lunch, Dinner",11,Y,Y,"German, English, Japanese","Walk, Bus"
+Hofbraeu Wirtshaus,German,medium,"Lunch, Brunch, Dinner",40,Y,N,"German, English","Metro, Bus, Taxi"
+Pila,German,low,"Breakfast, Brunch",50,Y,Y,German,"Metro, Bus, Taxi"
+HuaTing,Chinese,medium,"Lunch, Brunch, Dinner",20,Y,N,"German, English",Taxi
+Long March Canteen,Chinese,high,"Lunch, Dinner",10,Y,Y,"German, English, Chinese","Walk, Taxi"
+Shezan,Indian,medium,"Lunch, Brunch, Dinner",18,Y,N,"German, English, Hindi","Walk, Bus"
+Lemongrass,Thai,medium,"Breakfast, Brunch",40,Y,N,"German, English, Thai","Metro, Bus, Taxi"
+Rissani,Morrocan,low,"Lunch, Brunch, Dinner",15,Y,N,"German, Arabic","Walk, Bus"
+Richard,French,high,"Lunch, Dinner",15,Y,Y,"German, French","Walk, Bus"
+Spindler,European,medium,"Lunch, Brunch, Dinner",18,Y,Y,"German, French","Walk, Bus"
+"Knofi Feinkost",Turkish,medium,"Lunch, Brunch, Dinner",45,Y,N,"German, Turkish","Metro, Bus, Taxi"
+Mabuhay,Indonesian,low,"Lunch, Dinner",50,Y,Y,"German, English","Bus, Taxi"
