@@ -1,0 +1,6 @@
+[{'Alabama': 'green', 'Mississippi': 'blue', 'Georgia': 'blue', 'Tennessee': 'red', 'Florida': 'red'},
+ {'Alabama': 'red', 'Mississippi': 'blue', 'Georgia': 'blue', 'Tennessee': 'green', 'Florida': 'green'},
+ {'Alabama': 'blue', 'Mississippi': 'green', 'Georgia': 'green', 'Tennessee': 'red', 'Florida': 'red'},
+ {'Alabama': 'red', 'Mississippi': 'green', 'Georgia': 'green', 'Tennessee': 'blue', 'Florida': 'blue'},
+ {'Alabama': 'blue', 'Mississippi': 'red', 'Georgia': 'red', 'Tennessee': 'green', 'Florida': 'green'},
+ {'Alabama': 'green', 'Mississippi': 'red', 'Georgia': 'red', 'Tennessee': 'blue', 'Florida': 'blue'}]
